@@ -1,4 +1,4 @@
-#Codebook
+# Codebook
 The dataset includes all test mean and standard deviation results from the initial data source. The test and train datasets were merged, and 
 test results other than mean or standard deviation were ignored. The test subject ID and Activity labels were added to the final resultset
 as their own columns. The final resultset contains 68 columns. The final resultset is grouped by Activity and SubjectID. The measurement
@@ -10,7 +10,7 @@ SubjectID 	- Integer / Factor
 Measurements (3:68) - Numeric
 
 
-#Full list of Columns:
+# Full list of Columns:
 1 Activity
 2 SubjectID
 3 tBodyAcc-mean-X
