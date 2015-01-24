@@ -1,5 +1,5 @@
-# Getting And CleaningData
-Coursera course project
+# Getting And Cleaning Data
+Coursera course project - HD
 This repo contains an R script for parsing Human Activity Recognition dataset into a summary containing mean values for all of the raw data mean and standard deviation columns, grouped by Activity and Subject.  
 
 More information on the  HAR project can be found here:
